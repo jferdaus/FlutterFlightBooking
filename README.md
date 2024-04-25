@@ -1,6 +1,7 @@
 # Flight booking app
 
 A new Flutter project for flight booking.
+In this project, when the user press the "Book your Flight", an alert dialog will be displayed with success message. 
 
 ## Getting Started
 
